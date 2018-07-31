@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Marco/Documents/workspace/GeobraxLogoRotationAdaptadoGradle/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/Marco/Documents/workspace/GeobraxLogoRotationAdaptadoGradle/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Marco/Documents/workspace/GeobraxLogoRotationAdaptadoGradle/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/Marco/Documents/workspace/GeobraxLogoRotationAdaptadoGradle/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Marco/Documents/workspace/GeobraxLogoRotationAdaptadoGradle/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/Marco/Documents/workspace/GeobraxLogoRotationAdaptadoGradle/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Marco/Documents/workspace/GeobraxLogoRotationAdaptadoGradle/app/build/intermediates/res/merged/debug/layout_activity_geobrax_rotacionar.xml.flat",
+        "source": "/Users/Marco/Documents/workspace/GeobraxLogoRotationAdaptadoGradle/app/src/main/res/layout/activity_geobrax_rotacionar.xml"
+    },
+    {
+        "merged": "/Users/Marco/Documents/workspace/GeobraxLogoRotationAdaptadoGradle/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/Marco/Documents/workspace/GeobraxLogoRotationAdaptadoGradle/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Marco/Documents/workspace/GeobraxLogoRotationAdaptadoGradle/app/build/intermediates/res/merged/debug/menu_geobrax_rotacionar.xml.flat",
+        "source": "/Users/Marco/Documents/workspace/GeobraxLogoRotationAdaptadoGradle/app/src/main/res/menu/geobrax_rotacionar.xml"
+    }
+]

@@ -1,7 +1,7 @@
 package com.saiko.geobraxlogorotation;
 class Ponto3D{
 	
-	// Ponto 3D , o logo é formado por 8 pontos
+	// Ponto 3D , o logo ï¿½ formado por 8 pontos
 	public Double x,y,z;
 	public Double xt,yt,zt;
 	public Double xtt,ytt,ztt;

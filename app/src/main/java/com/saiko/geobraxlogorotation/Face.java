@@ -2,8 +2,9 @@ package com.saiko.geobraxlogorotation;
 
 class Face{
 	
-	// Aresta de um cuto , cubo é
+	// Aresta de um cuto , cubo ï¿½
 	// formado por 12 linhas
+
 	public int pto1 ;
 	public int pto2 ;
 	public int pto3 ;

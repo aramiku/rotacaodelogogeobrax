@@ -1,0 +1,4 @@
+#Thu Feb 07 10:16:22 BRST 2019
+base.0=/Users/Marco/Documents/workspace/GeobraxLogoRotationAdaptadoGradle/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
